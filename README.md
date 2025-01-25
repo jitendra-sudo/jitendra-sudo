@@ -8,7 +8,7 @@
 - 🤔 **Ask me about:**  
   `HTML` | `CSS` | `JavaScript` | `MongoDB` | `MySQL` | `React` | `npm`  
 - 📫 **How to reach me:**  
-  - 📧 Email: [stupidboysbusiness@gmail.com](mailto:stupidboysbusiness@gmail.com)  
+  - 📧 Email: [jitusaini2705@gmail.com](mailto:jitusaini2705.com)  
   - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/jitendra2705/)  
   - 🌟 [Portfolio](https://jitendra-sudo.netlify.app/)  
 
