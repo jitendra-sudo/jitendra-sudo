@@ -68,5 +68,10 @@ OwnField is designed to bridge the gap between farmers and consumers by offering
 **Tech Stack:** React  
 ⭐ 55 | Forks: 2
 
+### [CalieScan](https://caloriescan.netlify.app/)
+OwnField is designed to bridge the gap between farmers and consumers by offering a direct, convenient way for consumers to purchase fresh produce straight from the fields  
+**Tech Stack:** React  
+⭐ 55 | Forks: 2
+
 ---
 
