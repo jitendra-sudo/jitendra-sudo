@@ -1,6 +1,6 @@
 #                  👋 Hi, I'm Jitendra Saini  
 
-## 🚀Frontend Developer who loves building responsive, interactive, and user-friendly websites using HTML, CSS, JavaScript, React, TypeScript, and modern tools to create smooth and engaging experiences for users  
+Passionate MERN stack developer who loves building responsive, interactive, and user-friendly web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in crafting seamless user experiences with React and TypeScript, and building robust backends with Node.js and Express, while efficiently managing data with MongoDB. I enjoy turning complex problems into clean, maintainable solutions using modern development tools and best practices.
 
 ### 🌟 About Me
 - **I'm  a Frontend Developer**  
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -58,20 +59,3 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=jitendra-sudo&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>  
-
----
-
-### 📌 Pinned Projects  
-
-### [OwnField](https://ownfield.netlify.app/)
-OwnField is designed to bridge the gap between farmers and consumers by offering a direct, convenient way for consumers to purchase fresh produce straight from the fields  
-**Tech Stack:** React  
-⭐ 55 | Forks: 2
-
-### [CalieScan](https://caloriescan.netlify.app/)
-OwnField is designed to bridge the gap between farmers and consumers by offering a direct, convenient way for consumers to purchase fresh produce straight from the fields  
-**Tech Stack:** React  
-⭐ 55 | Forks: 2
-
----
-
